@@ -22,4 +22,6 @@ Project 4: Spam Email Detection
 Built a Spam Email Detection system using Naive Bayes and Count Vectorization to classify messages as spam or non-spam.
 Achieved reliable classification accuracy on sample text data.
 *********************************************************************************************************************************************************************
-
+Project 5: Project_5_Customer_Purchase_Prediction_using_Logistic_Regression
+Built a Logistic Regression model to predict customer purchase behavior using age and salary from an external dataset.
+*********************************************************************************************************************************************************************
