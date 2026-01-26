@@ -25,3 +25,6 @@ Achieved reliable classification accuracy on sample text data.
 Project 5: Project_5_Customer_Purchase_Prediction_using_Logistic_Regression
 Built a Logistic Regression model to predict customer purchase behavior using age and salary from an external dataset.
 *********************************************************************************************************************************************************************
+Project 6: Project_6_Email_Spam_Detection_using_Naive_Bayes
+Built an Email Spam Detection system using Naive Bayes and text vectorization on real-world email data.
+*********************************************************************************************************************************************************************
