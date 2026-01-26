@@ -18,4 +18,8 @@ Project 3: Loan Approval Prediction
 Built a Loan Approval Prediction system using Logistic Regression to classify loan eligibility based on applicant income and loan amount.
 Evaluated model performance using accuracy and classification metrics.
 *********************************************************************************************************************************************************************
+Project 4: Spam Email Detection
+Built a Spam Email Detection system using Naive Bayes and Count Vectorization to classify messages as spam or non-spam.
+Achieved reliable classification accuracy on sample text data.
+*********************************************************************************************************************************************************************
 
