@@ -31,3 +31,6 @@ Built an Email Spam Detection system using Naive Bayes and text vectorization on
 Project 7: Customer Churn Prediction
 A machine learning model that predicts whether a customer will leave (churn) or stay.
 *********************************************************************************************************************************************************************
+Project 8: Sales Prediction using Random Forest
+Developed a Sales Prediction model using Random Forest with time-based feature engineering on real retail data.
+*********************************************************************************************************************************************************************
