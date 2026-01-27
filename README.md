@@ -34,3 +34,6 @@ A machine learning model that predicts whether a customer will leave (churn) or 
 Project 8: Sales Prediction using Random Forest
 Developed a Sales Prediction model using Random Forest with time-based feature engineering on real retail data.
 *********************************************************************************************************************************************************************
+Project 9: Feature Engineering (with Sales Data)
+Performed advanced feature engineering on retail sales data including time-based and business-driven features to improve model performance.
+*********************************************************************************************************************************************************************
