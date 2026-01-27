@@ -28,3 +28,6 @@ Built a Logistic Regression model to predict customer purchase behavior using ag
 Project 6: Project_6_Email_Spam_Detection_using_Naive_Bayes
 Built an Email Spam Detection system using Naive Bayes and text vectorization on real-world email data.
 *********************************************************************************************************************************************************************
+Project 7: Customer Churn Prediction
+A machine learning model that predicts whether a customer will leave (churn) or stay.
+*********************************************************************************************************************************************************************
