@@ -37,3 +37,6 @@ Developed a Sales Prediction model using Random Forest with time-based feature e
 Project 9: Feature Engineering (with Sales Data)
 Performed advanced feature engineering on retail sales data including time-based and business-driven features to improve model performance.
 *********************************************************************************************************************************************************************
+Project 10: Feature_Engineering_with Mall_Custmers_Dataset
+I used the Mall Customers dataset and focused on feature engineering. I created new features like age groups, income levels, spending behavior categories, and encoded categorical variables to make the data suitable for machine learning models.”
+*********************************************************************************************************************************************************************
