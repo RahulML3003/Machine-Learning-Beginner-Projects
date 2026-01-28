@@ -40,3 +40,8 @@ Performed advanced feature engineering on retail sales data including time-based
 Project 10: Feature_Engineering_with Mall_Custmers_Dataset
 I used the Mall Customers dataset and focused on feature engineering. I created new features like age groups, income levels, spending behavior categories, and encoded categorical variables to make the data suitable for machine learning models.”
 *********************************************************************************************************************************************************************
+Project 11: Feature_Engineering_with_Titanic_Survival_Prediction
+This project transforms raw Titanic passenger data into meaningful predictors by creating new variables like Family Size and Social Title from names.
+By grouping ages into categories and converting text into numbers (encoding), we make the data significantly easier for a machine learning model to process.
+Ultimately, these engineered features reveal hidden patterns—like social status and family connections—that directly improve the model's ability to predict survival.
+*********************************************************************************************************************************************************************
