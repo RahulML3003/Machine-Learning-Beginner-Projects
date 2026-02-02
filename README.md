@@ -45,3 +45,6 @@ This project transforms raw Titanic passenger data into meaningful predictors by
 By grouping ages into categories and converting text into numbers (encoding), we make the data significantly easier for a machine learning model to process.
 Ultimately, these engineered features reveal hidden patterns—like social status and family connections—that directly improve the model's ability to predict survival.
 *********************************************************************************************************************************************************************
+Project 12: Iris_Flower_with_KNN_Project
+A machine learning project using K-Nearest Neighbors to classify Iris flower species.
+*********************************************************************************************************************************************************************
