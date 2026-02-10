@@ -48,3 +48,6 @@ Ultimately, these engineered features reveal hidden patterns—like social statu
 Project 12: Iris_Flower_with_KNN_Project
 A machine learning project using K-Nearest Neighbors to classify Iris flower species.
 *********************************************************************************************************************************************************************
+Project 13: telecom_call_drop_dataset
+I worked on a call-drop prediction project using telecom network KPI data. I treated it as a classification problem, performed EDA and preprocessing, trained a Random Forest model, and used feature importance to identify network issues like low signal strength and high cell load. This helps operators proactively fix issues before customers complain.
+*********************************************************************************************************************************************************************
